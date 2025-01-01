@@ -1,0 +1,63 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "English" : {
+
+    },
+    "Hello" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হ্যালো"
+          }
+        }
+      }
+    },
+    "Select Langugage" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر اللغة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ভাষা নির্বাচন করুন"
+          }
+        }
+      }
+    },
+    "Welcome %@" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبًا، %@!"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বাগতম, %@!"
+          }
+        }
+      }
+    },
+    "العربية" : {
+
+    },
+    "বাংলা" : {
+
+    }
+  },
+  "version" : "1.0"
+}
